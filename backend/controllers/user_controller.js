@@ -1,4 +1,4 @@
-import User from "../models/user_model";
+import User from "../models/user_model.js";
 
 export const getUsersForSidebar = async(req,res) => {
 
